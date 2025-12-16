@@ -101,6 +101,6 @@ The site focuses on:
 
 ```bash
 Estate-Evidence-Archive/
+├── README.md       # Project documentation
 ├── index.html      # Main HTML file
-├── styles.css      # Main stylesheet
-└── README.md       # Project documentation
+└── styles.css      # Main stylesheet
